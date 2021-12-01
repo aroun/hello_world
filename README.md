@@ -1,2 +1,1 @@
-# hello_world
-hello_world
+# Repo for test build debian packages and etc test
